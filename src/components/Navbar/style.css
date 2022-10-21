@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-logo {
+    width: 90px;
+    height: 90px;
+}
+
+.search {
+    width: 200px !important;
+}
